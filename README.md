@@ -1,4 +1,13 @@
-# Clean Architecture Web API Project
+## Test project Pedidos with the minimum mandatory requirements based on Clean Architecture:
+https://github.com/nhonvo/clean-architecture-net-8.0
+
+-made changes to the Pedidos Repository, in IGenericRepository, in Seed for SQL InMemory
+-used Visual Studio 2022 and SQL InMemory
+
+
+
+
+## Clean Architecture Web API Project
 
 ## About the Project
 
